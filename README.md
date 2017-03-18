@@ -7,7 +7,7 @@ In this short explanation i talking about 3 function types that you must know fo
 Function Hoisting is default action of JavaScript. It will automatically move the declarations to the top of scope.
 So, no matter where you write your functions you can use the functions before you declared it.
 
-This is an example code for Function Hoisting
+This is an example code of Function Hoisting
 ```
 var arr = [8, 3, 5, 1, 10]
 
@@ -26,7 +26,7 @@ console.log(arr)
 Anonymous function is a function that we can declare by write it in some expresssion without any function name.
 An anonymous will started automatically without being called.
 
-This is an example code for Anonymous Function
+This is an example code of Anonymous Function
 ```
 var arr = [8, 3, 5, 1, 10]
 
@@ -45,7 +45,7 @@ And don't forget that they cannot be used as constructors. This function will wo
 For this one you don't have to put " function " at the first and this function will use " => " as a return.
 
 
-This is an example code for Arrow Function
+This is an example code of Arrow Function
 ```
 
 var arr = [8, 3, 5, 1, 10]
