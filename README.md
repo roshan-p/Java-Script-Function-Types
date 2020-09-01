@@ -1,5 +1,5 @@
 # Java-Script-Function-Types
-In this short explanation i talking about 3 function types that you must know for JavaScript.
+In this short explanation about 3 function types that you must know for JavaScript.
 
 # 3 Types of JavaScript Function
 
